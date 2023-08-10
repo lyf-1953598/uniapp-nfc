@@ -1,0 +1,18 @@
+{
+    "id": "ysh-file-manager",
+    "name": "安卓选择文件获取上传路径",
+    "displayName": "安卓选择文件获取上传路径",
+    "version": "1.0.0",
+    "description": "安卓选择文件",
+    "keywords": [
+        "安卓，",
+        "原生插件，",
+        "选择附件"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
